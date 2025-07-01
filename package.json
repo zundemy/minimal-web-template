@@ -1,0 +1,8 @@
+{
+  "name": "minimal-web-template",
+  "version": "0.0.0",
+  "scripts": {},
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
